@@ -6,7 +6,7 @@
 	<groupId>com.websystique.springmvc</groupId>
 	<artifactId>SpringMVCHibernateManyToManyCRUDExample</artifactId>
 	<packaging>war</packaging>
-	<version>5.0.0</version>
+	<version>6.0.0</version>
 	<name>SpringMVCHibernateWithSpringSecurityExample</name>
 
   	<properties>
